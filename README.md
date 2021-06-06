@@ -5,6 +5,8 @@ This is a redesign of my optometrist's website to be responsive and have a moder
 This was created just for fun to practice my web development skills.
 _I am not associated with nor speak for this optometry practice._
 
+LIVE DEMO - [optometrist.anniew.xyz](https://optometrist.anniew.xyz/) OR [optometrist.netlify.app](https://optometrist.netlify.app/)
+
 <p align="center">
     <a href="https://www.w3schools.com/html/"> 
         <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
@@ -15,7 +17,7 @@ _I am not associated with nor speak for this optometry practice._
     <a href="https://www.w3schools.com/js/DEFAULT.asp"> 
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white"/>
     </a>
-    <img alt="Netlify Status" src=""/>
+    <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/595d22c1-a589-427e-9d0a-a5590324c49f/deploy-status"/>
 </p>
 
 <p align="center">
