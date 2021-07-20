@@ -137,6 +137,10 @@ nav {
     margin-bottom: 25px;
 }
 
+#home {
+    height: 100vh;
+}
+
 .home p, .meet-the-doctors p, .about-us p {
     margin-top: 20px;
 }
