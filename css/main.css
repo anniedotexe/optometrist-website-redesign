@@ -112,26 +112,29 @@ nav {
 }
 
 .section {
-    padding: 50px 0;
+    padding-top: 100px;
     text-align: center;
 }
 
 .section-title {
-    padding: 50px 0 25px 0;
+    padding-top: 50px;
 }
 
 .section-title, .card-title {
     font-family: 'Montserrat', sans-serif;
-    margin-bottom: 25px;
 }
 
 .card {
-    margin: 50px 0;
+    margin-top: 50px;
     padding: 25px;
     background: #FFFFFF;
     border-radius: 5px;
     border: solid 1px #516d2f70;
     box-shadow: #516d2f70 0px 6px 12px -2px, #516d2f70 0px 3px 7px -3px;
+}
+
+.card-title {
+    margin-bottom: 25px;
 }
 
 .home p, .meet-the-doctors p, .about-us p {
@@ -301,6 +304,6 @@ footer {
     #order-contacts-button:hover {
         color: #FFFFFF;
         background: #6D2F50;
-        transition: all 0.2s ease-in;
+        transition: all 0.2s ease;
     }
 }

@@ -1,12 +1,11 @@
 # An Optometry Practice Website's Redesign
 
-This is a redesign of my optometrist's website to be responsive and have a modern minimalistic design (and look less early 2000's).
+This is a redesign of my optometrist's website to be responsive and have a modern minimalist design (and look less early 2000's).
 
 This was created just for fun to practice my web development skills.
 _I am not associated with nor speak for this optometry practice._
 
-**LIVE DEMO** - [optometrist.anniew.xyz](https://optometrist.anniew.xyz/) OR [
-optometrist-redesign.netlify.app](https://optometrist-redesign.netlify.app/)
+**LIVE DEMO** - [optometrist.anniew.xyz](https://optometrist.anniew.xyz/) OR [optometrist-redesign.netlify.app](https://optometrist-redesign.netlify.app/)
 
 <p align="center">
     <a href="https://www.w3schools.com/html/"> 
@@ -47,49 +46,51 @@ Here are some of the design choices I made for this website.
 
 [Monserrat](https://fonts.google.com/specimen/Montserrat) - page titles, section titles, headings
 
-<img alt="Screenshot" src="./img/for-readme/montserrat.png">
+<img alt="Screenshot" src="./img/for-readme/montserrat.png" width="80%">
 
 [Open Sans](https://fonts.google.com/specimen/Open+Sans) - everything else
 
-<img alt="Screenshot" src="./img/for-readme/opensans.png">
+<img alt="Screenshot" src="./img/for-readme/opensans.png" width="80%">
 
 ### Color Scheme
 
 I decided to keep the original shade of green used in their logo and created a palette with shades of green and a complementary color for accent.
 
-<img alt="Screenshot" src="./img/for-readme/palette.png">
+<img alt="Screenshot" src="./img/logo-icon.jpg">
+
+<img alt="Screenshot" src="./img/for-readme/palette.png" width="80%">
 
 ### Overall Design
 
-I decided to change to a single page website with one column from the original multi-page website with static two columns. The left column which shows a bigger version of the logo and the location and hours under it can be fully removed. The new design is mobile first and can responsively change to fit wider screens with a max width of 1000px. 
+I decided to change to a single page website with one column from the original multi-page website with static two columns. The left column which shows a bigger version of the logo and the location and hours under it can be fully removed. The new design is mobile first and can responsively change to fit wider screens with a max width of 1000px.
 
 ## New Design Wireframes vs. Original Design
 
-These are the wireframes for a clean, modern, and minimalistic look compared to the original design of the webpages.
+These are the wireframes for a clean, modern, and minimalist look compared to the original design of the webpages.
 
 ### Home Page
 
-<img alt="wireframe for home page" src="./img/for-readme/home-wireframe.png" width="49%">
-<img alt="original home page" src="./img/for-readme/home-original.png" width="49%">
+<img alt="wireframe for home page" src="./img/for-readme/home-wireframe.png" width="45%">
+<img alt="original home page" src="./img/for-readme/home-original.png" width="45%">
 
 ### Meet the Doctors
 
-<img alt="wireframe for meet the doctors section" src="./img/for-readme/doctors-wireframe.png" width="49%">
-<img alt="original meet the doctors page" src="./img/for-readme/doctors-original.png" width="49%">
+<img alt="wireframe for meet the doctors section" src="./img/for-readme/doctors-wireframe.png" width="45%">
+<img alt="original meet the doctors page" src="./img/for-readme/doctors-original.png" width="45%">
 
 ### About Us
 
-<img alt="wireframe for about us section" src="./img/for-readme/about-wireframe.png" width="49%">
-<img alt="original about us page" src="./img/for-readme/about-original.png" width="49%">
+<img alt="wireframe for about us section" src="./img/for-readme/about-wireframe.png" width="45%">
+<img alt="original about us page" src="./img/for-readme/about-original.png" width="45%">
 
 ### Order Contacts
 
-<img alt="wireframe for order contacts online section" src="./img/for-readme/order-contacts-wireframe.png" width="49%">
+<img alt="wireframe for order contacts online section" src="./img/for-readme/order-contacts-wireframe.png" width="45%">
 
 ### Contact Us
 
-<img alt="wireframe for contact us section" src="./img/for-readme/contact-wireframe.png" width="49%">
-<img alt="original contact us page" src="./img/for-readme/contact-original.png" width="49%">
+<img alt="wireframe for contact us section" src="./img/for-readme/contact-wireframe.png" width="45%">
+<img alt="original contact us page" src="./img/for-readme/contact-original.png" width="45%">
 
 ## Built With
 
