@@ -5,7 +5,7 @@ This is a redesign of my optometrist's website to be responsive and have a moder
 This was created just for fun to practice my web development skills.
 _I am not associated with nor speak for this optometry practice._
 
-**LIVE DEMO** - [optometrist.anniew.xyz](https://optometrist.anniew.xyz/) OR [optometrist-redesign.netlify.app](https://optometrist-redesign.netlify.app/)
+**LIVE DEMO** - [optometrist-redesign.netlify.app](https://optometrist-redesign.netlify.app/)
 
 <p align="center">
     <a href="https://www.w3schools.com/html/"> 
