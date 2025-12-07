@@ -1,11 +1,11 @@
 # An Optometry Practice Website's Redesign
 
-This is a redesign of my optometrist's website to be responsive and have a modern minimalist design (and look less early 2000's).
+This is a redesign of my optometrist's website to be responsive and have a modern minimalist design.
 
 This was created just for fun to practice my web development skills.
 _I am not associated with nor speak for this optometry practice._
 
-**LIVE DEMO** - [optometrist-redesign.netlify.app](https://optometrist-redesign.netlify.app/)
+**LIVE DEMO** - _removed_
 
 <p align="center">
     <a href="https://www.w3schools.com/html/"> 
@@ -102,20 +102,12 @@ These are the wireframes for a clean, modern, and minimalist look compared to th
 
 ---
 
-### Creator / Maintainer
+## Creator
 
 Annie Wu ([anniedotexe](https://github.com/anniedotexe))
 
-If you have any questions, comments, or concerns, feel free to contact me below.
+Copyright &copy; 2021-2026 Annie Wu. All rights reserved.
 
-<p align="left">
-  <a href="mailto:anniewu2303@gmail.com"> 
-    <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
-  </a>
-</p>
-
-This project was created for educational purposes.
-
-If you like my content or find this code useful, give it a :star: or support me by buying me a coffee :coffee::grinning:
+If you like my content or find this code useful, give it a ⭐ or support me by buying me a coffee ☕💙
 
 <a href="https://www.buymeacoffee.com/anniedotexe" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
